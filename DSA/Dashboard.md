@@ -6,7 +6,9 @@
 
 # 🎯 Current Goal
 
-- [ ] Finish Arrays
+- [x] Finish Arrays
+- [x] Learn Linear Search
+- [ ] Learn Reversing
 - [ ] Solve 3 Easy Problems
 - [ ] Learn Binary Search
 - [ ] Revise Previous Problems
@@ -23,6 +25,8 @@
 
 ## ⚙️ Algorithms
 
+- [[Linear Search|Linear Search]]
+- [[Reverse Array]]
 - [[Binary Search]]
 
 ---
@@ -238,12 +242,8 @@ WHERE contains(pattern,"Binary Search")
 
 # ⭐ Important Notes
 
-- [[Time Complexity]]
-- [[Space Complexity]]
-- [[STL Cheat Sheet]]
-- [[Fast IO]]
-- [[Recursion]]
-- [[Binary Search Template]]
+- 
+
 
 ---
 

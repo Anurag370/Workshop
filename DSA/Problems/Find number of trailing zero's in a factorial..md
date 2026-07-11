@@ -13,6 +13,7 @@ created: 2026-07-10
 # Find number of trailing zero's in a factorial.
 
 ## Problem
+
 Write a program to return the number of trailing zero's a factorial of a number will have.
 [[Flowchart to find Trailing Zeros]]
 

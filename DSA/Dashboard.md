@@ -29,22 +29,6 @@
 
 ## 🧩 Patterns
 
-```dataview
-LIST
-FROM "Vault/DSA/Patterns"
-SORT file.name ASC
-```
-
-
----
-
-## 🎨 Excalidraw
-
-```dataview
-LIST
-FROM "Vault/DSA/Excalidraw"
-SORT file.name ASC
-```
 
 ---
 

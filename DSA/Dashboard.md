@@ -17,21 +17,13 @@
 
 ## 📚 Topics
 
-```dataview
-LIST
-FROM "DSA/Topics"
-SORT file.name ASC
-```
+- [[Arrays]]
 
 ---
 
 ## ⚙️ Algorithms
 
-```dataview
-LIST
-FROM "DSA/Algorithms"
-SORT file.name ASC
-```
+- [[Binary Search]]
 
 ---
 
@@ -39,19 +31,10 @@ SORT file.name ASC
 
 ```dataview
 LIST
-FROM "DSA/Patterns"
+FROM "Vault/DSA/Patterns"
 SORT file.name ASC
 ```
 
----
-
-## 💻 Code
-
-```dataview
-LIST
-FROM "DSA/Code"
-SORT file.name ASC
-```
 
 ---
 
@@ -59,7 +42,7 @@ SORT file.name ASC
 
 ```dataview
 LIST
-FROM "DSA/Excalidraw"
+FROM "Vault/DSA/Excalidraw"
 SORT file.name ASC
 ```
 
@@ -72,7 +55,7 @@ TABLE
 difficulty AS "Difficulty",
 status AS "Status",
 file.ctime AS "Created"
-FROM "DSA/Problems"
+FROM "Vault/DSA/Problems"
 SORT file.ctime DESC
 LIMIT 10
 ```
@@ -84,7 +67,7 @@ LIMIT 10
 ```dataview
 TABLE
 file.mtime AS "Last Modified"
-FROM "DSA"
+FROM "Vault/DSA"
 SORT file.mtime DESC
 LIMIT 10
 ```
@@ -98,7 +81,7 @@ TABLE
 difficulty,
 topic,
 pattern
-FROM "DSA/Problems"
+FROM "Vault/DSA/Problems"
 WHERE revision = true
 SORT difficulty
 ```
@@ -126,7 +109,7 @@ SORT difficulty
 TABLE
 difficulty,
 topic
-FROM "DSA/Problems"
+FROM "Vault/DSA/Problems"
 WHERE status != "Solved"
 SORT difficulty ASC
 ```
@@ -139,7 +122,7 @@ SORT difficulty ASC
 TABLE
 difficulty,
 topic
-FROM "DSA/Problems"
+FROM "Vault/DSA/Problems"
 WHERE status = "Solved"
 SORT file.name
 ```
@@ -160,7 +143,7 @@ WHERE !completed
 ```dataview
 TABLE WITHOUT ID
 length(rows) AS "Solved Easy"
-FROM "DSA/Problems"
+FROM "Vault/DSA/Problems"
 WHERE difficulty="Easy" AND status="Solved"
 GROUP BY ""
 ```
@@ -172,7 +155,7 @@ GROUP BY ""
 ```dataview
 TABLE WITHOUT ID
 length(rows) AS "Solved Medium"
-FROM "DSA/Problems"
+FROM "Vault/DSA/Problems"
 WHERE difficulty="Medium" AND status="Solved"
 GROUP BY ""
 ```
@@ -184,7 +167,7 @@ GROUP BY ""
 ```dataview
 TABLE WITHOUT ID
 length(rows) AS "Solved Hard"
-FROM "DSA/Problems"
+FROM "Vault/DSA/Problems"
 WHERE difficulty="Hard" AND status="Solved"
 GROUP BY ""
 ```
@@ -199,7 +182,7 @@ GROUP BY ""
 TABLE
 difficulty,
 status
-FROM "DSA/Problems"
+FROM "Vault/DSA/Problems"
 WHERE contains(topic,"Arrays")
 ```
 
@@ -209,7 +192,7 @@ WHERE contains(topic,"Arrays")
 TABLE
 difficulty,
 status
-FROM "DSA/Problems"
+FROM "Vault/DSA/Problems"
 WHERE contains(topic,"Strings")
 ```
 
@@ -219,7 +202,7 @@ WHERE contains(topic,"Strings")
 TABLE
 difficulty,
 status
-FROM "DSA/Problems"
+FROM "Vault/DSA/Problems"
 WHERE contains(topic,"Trees")
 ```
 
@@ -229,7 +212,7 @@ WHERE contains(topic,"Trees")
 TABLE
 difficulty,
 status
-FROM "DSA/Problems"
+FROM "Vault/DSA/Problems"
 WHERE contains(topic,"Graphs")
 ```
 
@@ -243,7 +226,7 @@ WHERE contains(topic,"Graphs")
 TABLE
 difficulty,
 status
-FROM "DSA/Problems"
+FROM "Vault/Vault/DSA/Problems"
 WHERE contains(pattern,"Sliding Window")
 ```
 
@@ -253,7 +236,7 @@ WHERE contains(pattern,"Sliding Window")
 TABLE
 difficulty,
 status
-FROM "DSA/Problems"
+FROM "Vault/DSA/Problems"
 WHERE contains(pattern,"Two Pointers")
 ```
 
@@ -263,7 +246,7 @@ WHERE contains(pattern,"Two Pointers")
 TABLE
 difficulty,
 status
-FROM "DSA/Problems"
+FROM "Vault/DSA/Problems"
 WHERE contains(pattern,"Binary Search")
 ```
 

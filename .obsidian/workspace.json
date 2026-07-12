@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "fbe27281b2d56f46",
+    "type": "split",
+    "children": [
+      {
+        "id": "1770545f0a883e01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "972973f67de922b8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7aefe10f41cbc2a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe61400edbc5ea30",
+        "type": "tabs",
+        "dimension": 66.7056074766355,
+        "children": [
+          {
+            "id": "b188b291ebe71fc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "975ee980da0854da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cc3fa76c46a7d7f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5affdd590aa502cc",
+        "type": "tabs",
+        "dimension": 33.294392523364486,
+        "children": [
+          {
+            "id": "bea63d56a829a3d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344.5
+  },
+  "right": {
+    "id": "96e4ac08a32177c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e9a8e12b29cbb1c",
+        "type": "tabs",
+        "dimension": 59.57683741648107,
+        "children": [
+          {
+            "id": "c604228cc00824e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "14a128b61424d9dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "97b6bae0f5ea4b56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bfa2dfe8c3295a82",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "18d53e46bc7184a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vault/DSA/Algorithms/Linear Search.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Linear Search"
+            }
+          },
+          {
+            "id": "092928fa0e4297b2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "17ae61216f6b13dc",
+        "type": "tabs",
+        "dimension": 40.42316258351893,
+        "children": [
+          {
+            "id": "14d2f77f2a751c42",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "b188b291ebe71fc8",
+  "lastOpenFiles": [
+    "Vault/DSA/Dashboard.md",
+    "2026-07-12.md",
+    "Vault/DSA/Topics/Arrays.md",
+    "Vault/DSA/Algorithms/Reverse Array.md",
+    "Vault/DSA/Algorithms/Linear Search.md",
+    "Vault/DSA/Algorithms/Binary Search.md",
+    "Vault/DSA/Templates/Algorithm.md",
+    "Vault/DSA/Excalidraw/Linear Search Diagram.md",
+    "Vault/DSA/Excalidraw/Untitled.md",
+    "Vault/DSA/Problems/Total moves of a Bishop.md",
+    "Vault/DSA/Code/c++/Bishop.cpp",
+    "Vault/DSA/Code/c++",
+    "Vault/DSA/Code/New folder",
+    "Vault/DSA/Code",
+    "Vault/DSA/New folder",
+    "Vault/DSA/Problems/Find number of trailing zero's in a factorial..md",
+    "Vault/DSA/Excalidraw/Flowchart to find Trailing Zeros.md",
+    "Vault/DSA/Templates/Topic.md",
+    "Time Complexity.md",
+    "Vault/DSA/Templates/Problem.md",
+    "Vault/DSA/Templates/Pattern.md",
+    "Vault/DSA/Topics",
+    "Vault/DSA/Templates",
+    "Vault/DSA/Problems",
+    "Vault/DSA/Patterns",
+    "Vault/DSA/Excalidraw",
+    "Vault/README.md",
+    "2026-07-10.md",
+    "DSA/Problems/Find number of trailing zero's in a factorial..md",
+    "DSA/Excalidraw/Flowchart to find Trailing Zeros.md",
+    "DSA/Topics/Arrays.md",
+    "DSA/Dashboard.md",
+    "Development/CumtomTkinter.md",
+    "DSA/Topics/Hashing.md",
+    "DSA/Topics/Recursion.md",
+    "DSA/Templates/Pattern.md",
+    "Pasted Image 20260709212547_409.png",
+    "Pasted Image 20260709212559_861.png",
+    "Pictures/Pasted image 20260219183213.png",
+    "Pictures/Pasted image 20260219181617.png",
+    "Pictures/Pasted image 20260221170537.png",
+    "Pictures/Pasted image 20260221170506.png",
+    "Pictures/Pasted image 20260221170438.png",
+    "Pictures/Pasted image 20260221170415.png",
+    "Pictures/Pasted image 20260221170344.png",
+    "Pictures/Pasted image 20260221170322.png",
+    "Untitled.canvas"
+  ]
+}

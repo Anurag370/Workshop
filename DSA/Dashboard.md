@@ -8,7 +8,7 @@
 
 - [x] Finish Arrays
 - [x] Learn Linear Search
-- [ ] Learn Reversing
+- [x] Learn Reversing
 - [ ] Solve 3 Easy Problems
 - [ ] Learn Binary Search
 - [ ] Revise Previous Problems

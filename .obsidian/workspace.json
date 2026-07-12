@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "19a683cd061bf699",
+        "id": "eac6595e3bebbc01",
         "type": "tabs",
         "children": [
           {
-            "id": "0ac66cdd86acc95f",
+            "id": "b02cd4d975a5337f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "vscode-editor",
+              "state": {
+                "file": "Code/c++/LinearSearch.cpp"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "LinearSearch"
             }
           }
         ]
@@ -210,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,29 +229,28 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "0ac66cdd86acc95f",
+  "active": "b188b291ebe71fc8",
   "lastOpenFiles": [
-    "DSA/New Text Document.txt",
-    "DSA/5. Code/java/Hello.java",
-    "DSA/5. Code/java/Hello.class",
-    "DSA/5. Code/java",
-    "DSA/5. Code/New folder",
-    "DSA/5. Code/python",
-    "DSA/5. Code/c++",
-    "DSA/5. Code",
-    "DSA/New folder",
+    "DSA/2. Algorithms/Reverse Array.md",
+    "Code/c++/ReverseArray.cpp",
     "DSA/Dashboard.md",
+    "DSA/2. Algorithms/Linear Search.md",
+    "Code/c++/LinearSearch.cpp",
+    "Code/c++/New folder",
+    "DSA/2. Algorithms/Binary Search.md",
+    "Code/python",
+    "Code/New folder",
+    "Code/c++",
+    "Code/java",
+    "Code/jaba",
+    "Code",
+    "New folder",
     "DSA/Templates/Topic.md",
     "DSA/Templates/Problem.md",
     "DSA/Templates/Pattern.md",
     "DSA/Templates/Algorithm.md",
     "DSA/3. Patterns/Two Pointers.md",
-    "DSA/2. Algorithms/Reverse Array.md",
     "DSA/Algorithms/Untitled.md",
-    "DSA/Untitled",
-    "DSA/3. Patterns",
-    "DSA/2. Algorithms/Linear Search.md",
-    "DSA/2. Algorithms/Binary Search.md",
     "Vault/DSA/Dashboard.md",
     "2026-07-12.md",
     "Vault/DSA/Topics/Arrays.md",

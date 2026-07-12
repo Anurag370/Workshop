@@ -38,7 +38,9 @@ for(int i = 0; i < n; i++){
 
 ## Algorithms
 
--
+- [[Linear Search]]
+- [[Reverse Array]]
+- [[Binary Search]]
 
 ---
 

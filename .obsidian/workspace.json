@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1770545f0a883e01",
+        "id": "ba4388f6694c8ed7",
         "type": "tabs",
         "children": [
           {
-            "id": "972973f67de922b8",
+            "id": "389cf039d0ffe4b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Algorithms/Reverse Array.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Reverse Array"
             }
           }
         ]
@@ -50,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#algorithm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5affdd590aa502cc",
@@ -226,8 +231,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b188b291ebe71fc8",
+  "active": "bea63d56a829a3d8",
   "lastOpenFiles": [
+    "DSA/Algorithms/Reverse Array.md",
+    "DSA/Algorithms/Linear Search.md",
+    "DSA/Algorithms/Binary Search.md",
+    "DSA/Templates/Algorithm.md",
+    "DSA/Dashboard.md",
     "Vault/DSA/Dashboard.md",
     "2026-07-12.md",
     "Vault/DSA/Topics/Arrays.md",
@@ -259,11 +269,6 @@
     "DSA/Problems/Find number of trailing zero's in a factorial..md",
     "DSA/Excalidraw/Flowchart to find Trailing Zeros.md",
     "DSA/Topics/Arrays.md",
-    "DSA/Dashboard.md",
-    "Development/CumtomTkinter.md",
-    "DSA/Topics/Hashing.md",
-    "DSA/Topics/Recursion.md",
-    "DSA/Templates/Pattern.md",
     "Pasted Image 20260709212547_409.png",
     "Pasted Image 20260709212559_861.png",
     "Pictures/Pasted image 20260219183213.png",

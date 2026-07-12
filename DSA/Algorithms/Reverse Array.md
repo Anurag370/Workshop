@@ -4,7 +4,7 @@ status: Learning
 created: 2026-07-11
 updated: 2026-07-11
 topic: "[[Arrays]]"
-pattern: two-pointers
+pattern: "[[Two Pointers]]"
 difficulty: Easy
 ---
 # Reverse Array

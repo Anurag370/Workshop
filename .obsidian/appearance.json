@@ -3,5 +3,6 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "accentColor": ""
+  "accentColor": "",
+  "showRibbon": false
 }

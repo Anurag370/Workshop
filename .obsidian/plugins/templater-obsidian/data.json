@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Vault/DSA/Templates",
+  "templates_folder": "DSA/Templates",
   "templates_pairs": [
     [
       "",
@@ -15,20 +15,20 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Vault/DSA/Algorithms",
-      "template": "Vault/DSA/Templates/Algorithm.md"
+      "folder": "DSA/Algorithms",
+      "template": "DSA/Templates/Algorithm.md"
     },
     {
-      "folder": "Vault/DSA/Patterns",
-      "template": "Vault/DSA/Templates/Pattern.md"
+      "folder": "DSA/Patterns",
+      "template": "DSA/Templates/Pattern.md"
     },
     {
-      "folder": "Vault/DSA/Problems",
-      "template": "Vault/DSA/Templates/Problem.md"
+      "folder": "DSA/Problems",
+      "template": "DSA/Templates/Problem.md"
     },
     {
-      "folder": "Vault/DSA/Topics",
-      "template": "Vault/DSA/Templates/Topic.md"
+      "folder": "DSA/Topics",
+      "template": "DSA/Templates/Topic.md"
     }
   ],
   "enable_file_templates": false,

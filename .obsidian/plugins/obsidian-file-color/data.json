@@ -1,6 +1,71 @@
 {
-  "cascadeColors": false,
+  "cascadeColors": true,
   "colorBackground": false,
-  "palette": [],
-  "fileColors": []
+  "palette": [
+    {
+      "id": "adjRSKNMEdupN7pWE0VL5",
+      "name": "Pink",
+      "value": "#ff8f8f"
+    },
+    {
+      "id": "32fhZNU2QBZHPkHbAmOP-",
+      "name": "Blue",
+      "value": "#4271ff"
+    },
+    {
+      "id": "0jU76TeHwBFSblwDA1OhG",
+      "name": "White",
+      "value": "#ffd1d1"
+    },
+    {
+      "id": "oEjx-WXvzOjepPvZZBenQ",
+      "name": "Lime Green",
+      "value": "#66ff7f"
+    },
+    {
+      "id": "4yJD_x7eAg3pe4prS_hYk",
+      "name": "Red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "yHgeCBUnMeu__HUYmFtbR",
+      "name": "Black",
+      "value": "#131118"
+    },
+    {
+      "id": "Kpzc-HGBck_5WuPVd23aw",
+      "name": "Yellow",
+      "value": "#ff9705"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "DSA/Dashboard.md",
+      "color": "adjRSKNMEdupN7pWE0VL5"
+    },
+    {
+      "path": "DSA/Templates",
+      "color": "yHgeCBUnMeu__HUYmFtbR"
+    },
+    {
+      "path": "DSA/1. Topics",
+      "color": "Kpzc-HGBck_5WuPVd23aw"
+    },
+    {
+      "path": "DSA/2. Algorithms",
+      "color": "oEjx-WXvzOjepPvZZBenQ"
+    },
+    {
+      "path": "DSA/3. Patterns",
+      "color": "32fhZNU2QBZHPkHbAmOP-"
+    },
+    {
+      "path": "DSA/4. Problems",
+      "color": "4yJD_x7eAg3pe4prS_hYk"
+    },
+    {
+      "path": "DSA/Diagrams",
+      "color": "0jU76TeHwBFSblwDA1OhG"
+    }
+  ]
 }

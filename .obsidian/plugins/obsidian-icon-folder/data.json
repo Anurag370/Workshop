@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "⚽"
+      "🚀",
+      "💻",
+      "📝",
+      "🎨",
+      "🧩"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,5 +33,12 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "DSA/1. Topics": "📚",
+  "DSA": "📂",
+  "DSA/3. Patterns": "🧩",
+  "DSA/Diagrams": "🎨",
+  "DSA/4. Problems": "📝",
+  "DSA/2. Algorithms": "💻",
+  "DSA/Dashboard.md": "🚀"
 }

@@ -29,7 +29,7 @@
       {
         "id": "fe61400edbc5ea30",
         "type": "tabs",
-        "dimension": 66.7056074766355,
+        "dimension": 54.20560747663551,
         "children": [
           {
             "id": "b188b291ebe71fc8",
@@ -74,9 +74,9 @@
         ]
       },
       {
-        "id": "5affdd590aa502cc",
+        "id": "a92d78285c1468c5",
         "type": "tabs",
-        "dimension": 33.294392523364486,
+        "dimension": 45.794392523364486,
         "children": [
           {
             "id": "bea63d56a829a3d8",
@@ -226,15 +226,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "29a2993e9a21d821",
+  "active": "bea63d56a829a3d8",
   "lastOpenFiles": [
+    "DSA/Dashboard.md",
     "DSA/Templates/Topic.md",
     "DSA/Templates/Problem.md",
     "DSA/Templates/Pattern.md",
     "DSA/Templates/Algorithm.md",
     "DSA/3. Patterns/Two Pointers.md",
     "DSA/2. Algorithms/Reverse Array.md",
-    "DSA/Dashboard.md",
     "DSA/Algorithms/Untitled.md",
     "DSA/Untitled",
     "DSA/3. Patterns",

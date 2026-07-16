@@ -15,20 +15,20 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "DSA/Algorithms",
+      "folder": "DSA/1. Topics",
+      "template": "DSA/Templates/Topic.md"
+    },
+    {
+      "folder": "DSA/2. Algorithms",
       "template": "DSA/Templates/Algorithm.md"
     },
     {
-      "folder": "DSA/Patterns",
+      "folder": "DSA/3. Patterns",
       "template": "DSA/Templates/Pattern.md"
     },
     {
-      "folder": "DSA/Problems",
+      "folder": "DSA/4. Problems",
       "template": "DSA/Templates/Problem.md"
-    },
-    {
-      "folder": "DSA/Topics",
-      "template": "DSA/Templates/Topic.md"
     }
   ],
   "enable_file_templates": false,

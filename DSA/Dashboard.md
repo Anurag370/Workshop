@@ -131,7 +131,7 @@ WHERE !completed
 ```dataview
 TABLE WITHOUT ID
 length(rows) AS "Solved Easy"
-FROM "DSA/Problems"
+FROM "DSA/4. Problems"
 WHERE difficulty="Easy" AND status="Solved"
 GROUP BY ""
 ```
@@ -143,7 +143,7 @@ GROUP BY ""
 ```dataview
 TABLE WITHOUT ID
 length(rows) AS "Solved Medium"
-FROM "DSA/Problems"
+FROM "DSA/4. Problems"
 WHERE difficulty="Medium" AND status="Solved"
 GROUP BY ""
 ```

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eac6595e3bebbc01",
+        "id": "6d3ce130a9be6415",
         "type": "tabs",
         "children": [
           {
-            "id": "b02cd4d975a5337f",
+            "id": "86a059beabb169d4",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "Code/c++/LinearSearch.cpp"
+                "file": "Miscellaneous/Smart Attendance System with Facial Recognition.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "LinearSearch"
+              "title": "Smart Attendance System with Facial Recognition"
             }
           }
         ]
@@ -229,13 +231,19 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "b188b291ebe71fc8",
+  "active": "86a059beabb169d4",
   "lastOpenFiles": [
+    "Miscellaneous/Smart Attendance System with Facial Recognition.md",
+    "DSA/Templates/Topic.md",
+    "DSA/1. Topics/Time and Space Complexity.md",
+    "DSA/4. Problems/Rotate array by 1.md",
+    "DSA/4. Problems/Total moves of a Bishop.md",
+    "DSA/4. Problems/Find number of trailing zero's in a factorial..md",
+    "DSA/Dashboard.md",
+    "Code/c++/LinearSearch.cpp",
     "DSA/2. Algorithms/Reverse Array.md",
     "Code/c++/ReverseArray.cpp",
-    "DSA/Dashboard.md",
     "DSA/2. Algorithms/Linear Search.md",
-    "Code/c++/LinearSearch.cpp",
     "Code/c++/New folder",
     "DSA/2. Algorithms/Binary Search.md",
     "Code/python",
@@ -245,7 +253,6 @@
     "Code/jaba",
     "Code",
     "New folder",
-    "DSA/Templates/Topic.md",
     "DSA/Templates/Problem.md",
     "DSA/Templates/Pattern.md",
     "DSA/Templates/Algorithm.md",
@@ -262,10 +269,6 @@
     "Vault/DSA/Excalidraw/Untitled.md",
     "Vault/DSA/Problems/Total moves of a Bishop.md",
     "Vault/DSA/Problems/Find number of trailing zero's in a factorial..md",
-    "Vault/DSA/Excalidraw/Flowchart to find Trailing Zeros.md",
-    "Vault/DSA/Templates/Topic.md",
-    "Time Complexity.md",
-    "Vault/DSA/Templates/Problem.md",
     "Pasted Image 20260709212547_409.png",
     "Pasted Image 20260709212559_861.png",
     "Pictures/Pasted image 20260219183213.png",

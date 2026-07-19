@@ -11,14 +11,12 @@
             "id": "86a059beabb169d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Miscellaneous/Smart Attendance System with Facial Recognition.md",
-                "mode": "preview",
-                "source": false
+                "file": "Miscellaneous/Media/Smart_Attendance.png"
               },
-              "icon": "lucide-file",
-              "title": "Smart Attendance System with Facial Recognition"
+              "icon": "lucide-image",
+              "title": "Smart_Attendance"
             }
           }
         ]
@@ -173,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/DSA/Algorithms/Linear Search.md",
+                "file": "Miscellaneous/Media/Smart_Attendance.png",
                 "followCursor": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linear Search"
+              "title": "Outline of Smart_Attendance"
             }
           },
           {
@@ -231,9 +229,11 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "86a059beabb169d4",
+  "active": "092928fa0e4297b2",
   "lastOpenFiles": [
     "Miscellaneous/Smart Attendance System with Facial Recognition.md",
+    "Miscellaneous/Media",
+    "Miscellaneous/Media/Smart_Attendance.png",
     "DSA/Templates/Topic.md",
     "DSA/1. Topics/Time and Space Complexity.md",
     "DSA/4. Problems/Rotate array by 1.md",
@@ -252,7 +252,6 @@
     "Code/java",
     "Code/jaba",
     "Code",
-    "New folder",
     "DSA/Templates/Problem.md",
     "DSA/Templates/Pattern.md",
     "DSA/Templates/Algorithm.md",
@@ -268,7 +267,6 @@
     "Vault/DSA/Excalidraw/Linear Search Diagram.md",
     "Vault/DSA/Excalidraw/Untitled.md",
     "Vault/DSA/Problems/Total moves of a Bishop.md",
-    "Vault/DSA/Problems/Find number of trailing zero's in a factorial..md",
     "Pasted Image 20260709212547_409.png",
     "Pasted Image 20260709212559_861.png",
     "Pictures/Pasted image 20260219183213.png",
@@ -278,7 +276,6 @@
     "Pictures/Pasted image 20260221170438.png",
     "Pictures/Pasted image 20260221170415.png",
     "Pictures/Pasted image 20260221170344.png",
-    "Pictures/Pasted image 20260221170322.png",
     "Untitled.canvas"
   ]
 }

@@ -662,3 +662,95 @@ This project demonstrates experience with:
 - Software Architecture
 - AI Integration
 - Clean Project Structure
+
+# Flowchart
+[[Smart_Attendance.png]]
+```mermaid
+flowchart TD
+
+%% ======================
+%% Teacher/Admin Workflow
+%% ======================
+
+A([Start])
+
+A --> B{Select Action}
+
+B -->|Register Student| C[Open Student Registration Form]
+
+C --> D[Enter Student Details<br/>Name, Roll, Department]
+
+D --> E[Capture Face using Webcam]
+
+E --> F[OpenCV Captures Image]
+
+F --> G[InsightFace Detects Face]
+
+G --> H[Generate Face Embedding]
+
+H --> I[Store Student Information]
+
+I --> J[(SQLite Database)]
+
+J --> K[Registration Successful]
+
+K --> B
+
+%% ======================
+%% Attendance Workflow
+%% ======================
+
+B -->|Start Attendance| L[Open Live Camera]
+
+L --> M[Capture Video Frames]
+
+M --> N[Detect Face using InsightFace]
+
+N --> O{Face Detected?}
+
+O -->|No| M
+
+O -->|Yes| P[Generate Face Embedding]
+
+P --> Q[Fetch Stored Embeddings]
+
+Q --> R[(SQLite Database)]
+
+R --> S[Compare Face Embeddings]
+
+S --> T{Match Found?}
+
+T -->|No| U[Display Unknown Person]
+
+U --> M
+
+T -->|Yes| V[Retrieve Student Information]
+
+V --> W{Attendance Already Marked Today?}
+
+W -->|Yes| X[Display Already Present]
+
+X --> M
+
+W -->|No| Y[Mark Attendance]
+
+Y --> Z[(Attendance Database)]
+
+Z --> AA[Display Attendance Success]
+
+AA --> M
+
+%% ======================
+%% Reports
+%% ======================
+
+B -->|View Reports| AB[Fetch Attendance Records]
+
+AB --> AC[(Attendance Database)]
+
+AC --> AD[Generate Reports]
+
+AD --> AE[Teacher Dashboard]
+
+AE --> AF([End])
+```

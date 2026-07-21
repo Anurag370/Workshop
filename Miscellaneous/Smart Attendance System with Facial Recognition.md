@@ -136,7 +136,7 @@ Roles:
 
 ---
 
-# 📂 Project Structure
+ # 📂 Project Structure
 
 ```
 smart-attendance/

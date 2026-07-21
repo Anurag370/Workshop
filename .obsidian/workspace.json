@@ -11,12 +11,14 @@
             "id": "86a059beabb169d4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Media/Smart_Attendance.png"
+                "file": "Miscellaneous/guide.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Smart_Attendance"
+              "icon": "lucide-file",
+              "title": "guide"
             }
           }
         ]
@@ -94,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 227.5
   },
   "right": {
     "id": "96e4ac08a32177c4",
@@ -171,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Media/Smart_Attendance.png",
+                "file": "Miscellaneous/guide.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Smart_Attendance"
+              "title": "Outline of guide"
             }
           },
           {
@@ -212,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,9 +233,12 @@
   },
   "active": "092928fa0e4297b2",
   "lastOpenFiles": [
+    "Miscellaneous/insightface_book.md",
+    "Miscellaneous/guide.md",
+    "Miscellaneous/InsightFace_Mastery_Roadmap.md",
     "Miscellaneous/Smart Attendance System with Facial Recognition.md",
-    "Miscellaneous/Media",
     "Miscellaneous/Media/Smart_Attendance.png",
+    "Miscellaneous/Media",
     "DSA/Templates/Topic.md",
     "DSA/1. Topics/Time and Space Complexity.md",
     "DSA/4. Problems/Rotate array by 1.md",
@@ -265,8 +270,6 @@
     "Vault/DSA/Algorithms/Binary Search.md",
     "Vault/DSA/Templates/Algorithm.md",
     "Vault/DSA/Excalidraw/Linear Search Diagram.md",
-    "Vault/DSA/Excalidraw/Untitled.md",
-    "Vault/DSA/Problems/Total moves of a Bishop.md",
     "Pasted Image 20260709212547_409.png",
     "Pasted Image 20260709212559_861.png",
     "Pictures/Pasted image 20260219183213.png",

@@ -1176,7 +1176,7 @@ git commit -m "feat: initialize FastAPI project structure with health endpoint"
 - Interactive API docs at `/docs`
 
 **✅ Checklist**:
-- [ ] `python run.py` starts without errors
+- [x] `python run.py` starts without errors
 - [ ] `http://localhost:8000/health` returns `{"status": "ok"}`
 - [ ] `http://localhost:8000/docs` shows Swagger UI
 - [ ] Database file `data/attendance.db` created (empty tables)
@@ -1633,12 +1633,12 @@ git commit -m "feat: implement face registration with quality checks and image s
 - Error handling for no face, multiple faces, blurry images
 
 **✅ Checklist**:
-- [ ] Registration succeeds with a valid face image
-- [ ] Registration returns 400 for no face
-- [ ] Registration returns 409 for duplicate student_id
-- [ ] Registration returns 409 for duplicate email
-- [ ] Face image file appears in `data/faces/`
-- [ ] Student record appears in `students` table
+- [x] Registration succeeds with a valid face image
+- [x] Registration returns 400 for no face
+- [x] Registration returns 409 for duplicate student_id
+- [x] Registration returns 409 for duplicate email
+- [x] Face image file appears in `data/faces/`
+- [x] Student record appears in `students` table
 
 **▶ What to do next**: Move to Milestone 4 — Embedding Generation
 
@@ -1823,10 +1823,10 @@ git commit -m "feat: add embedding generation and duplicate face detection durin
 - Student deleted → embedding cascade deleted
 
 **✅ Checklist**:
-- [ ] Embedding stored in database after registration
-- [ ] Registering same face twice returns 409 DUPLICATE_FACE
-- [ ] Embedding can be reconstructed to numpy array
-- [ ] Cosine similarity between same-face embeddings > 0.8
+- [x] Embedding stored in database after registration
+- [x] Registering same face twice returns 409 DUPLICATE_FACE
+- [x] Embedding can be reconstructed to numpy array
+- [x] Cosine similarity between same-face embeddings > 0.8
 
 **▶ What to do next**: Move to Milestone 5 — Database Layer
 

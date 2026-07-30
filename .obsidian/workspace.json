@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Computer_Architecture_and_OS_Fundamentals.md",
-                "mode": "preview",
+                "file": "CyberSecurity/02-Linux/01-System Administration Commands.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer_Architecture_and_OS_Fundamentals"
+              "title": "01-System Administration Commands"
             }
           }
         ]
@@ -42,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -228,13 +230,25 @@
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "vscode-editor:Create Code File": false
+      "vscode-editor:Create Code File": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "092928fa0e4297b2",
+  "active": "86a059beabb169d4",
   "lastOpenFiles": [
-    "Miscellaneous/Cybersecurity_Roadmap.md",
+    "CyberSecurity/02-Linux/02-File System.md",
+    "CyberSecurity/02-Linux/01-System Administration Commands.md",
+    "CyberSecurity/03-Networking/01-Network Devices.md",
+    "CyberSecurity/Diagrams/IP_Address_Hierarchi.md",
+    "CyberSecurity/Diagrams/Clients_VS_Servers.md",
+    "CyberSecurity/Diagrams",
+    "CyberSecurity/Untitled.md",
     "Miscellaneous/Computer_Architecture_and_OS_Fundamentals.md",
+    "Miscellaneous/Cybersecurity_Roadmap.md",
+    "CyberSecurity/03-Networking",
+    "CyberSecurity/02-Linux",
+    "CyberSecurity/01-Fundamentals",
+    "CyberSecurity",
     "Miscellaneous/Face Recognition Attendance System.md",
     "Miscellaneous/Smart Attendance System with Facial Recognition.md",
     "Miscellaneous/insightface_book.md",
@@ -254,22 +268,11 @@
     "Code/c++/New folder",
     "DSA/2. Algorithms/Binary Search.md",
     "Code/python",
-    "Code/New folder",
-    "Code/c++",
-    "Code/java",
-    "Code/jaba",
-    "Code",
     "DSA/Templates/Problem.md",
     "DSA/Templates/Pattern.md",
     "DSA/Templates/Algorithm.md",
     "DSA/3. Patterns/Two Pointers.md",
     "DSA/Algorithms/Untitled.md",
-    "Vault/DSA/Dashboard.md",
-    "2026-07-12.md",
-    "Vault/DSA/Topics/Arrays.md",
-    "Vault/DSA/Algorithms/Reverse Array.md",
-    "Vault/DSA/Algorithms/Linear Search.md",
-    "Vault/DSA/Algorithms/Binary Search.md",
     "Pasted Image 20260709212547_409.png",
     "Pasted Image 20260709212559_861.png",
     "Pictures/Pasted image 20260219183213.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity/02-Linux/01-System Administration Commands.md",
+                "file": "Miscellaneous/local-retail-manager-guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-System Administration Commands"
+              "title": "local-retail-manager-guide"
             }
           }
         ]
@@ -236,20 +236,24 @@
   },
   "active": "86a059beabb169d4",
   "lastOpenFiles": [
-    "CyberSecurity/02-Linux/02-File System.md",
-    "CyberSecurity/02-Linux/01-System Administration Commands.md",
+    "Miscellaneous/Cybersecurity_Roadmap.md",
+    "Miscellaneous/OverTheWire.md",
+    "CyberSecurity/02-Linux/05.User & Group Management.md",
+    "CyberSecurity/02-Linux/04.Permission and Ownership.md",
+    "CyberSecurity/02-Linux/03. Search and Text Processing.md",
+    "CyberSecurity/02-Linux/02.File Viewing and Editing.md",
+    "CyberSecurity/02-Linux/01.File System.md",
+    "Miscellaneous/Face Recognition Attendance System.md",
     "CyberSecurity/03-Networking/01-Network Devices.md",
     "CyberSecurity/Diagrams/IP_Address_Hierarchi.md",
     "CyberSecurity/Diagrams/Clients_VS_Servers.md",
     "CyberSecurity/Diagrams",
     "CyberSecurity/Untitled.md",
     "Miscellaneous/Computer_Architecture_and_OS_Fundamentals.md",
-    "Miscellaneous/Cybersecurity_Roadmap.md",
     "CyberSecurity/03-Networking",
     "CyberSecurity/02-Linux",
     "CyberSecurity/01-Fundamentals",
     "CyberSecurity",
-    "Miscellaneous/Face Recognition Attendance System.md",
     "Miscellaneous/Smart Attendance System with Facial Recognition.md",
     "Miscellaneous/insightface_book.md",
     "Miscellaneous/InsightFace_Mastery_Roadmap.md",
@@ -269,10 +273,6 @@
     "DSA/2. Algorithms/Binary Search.md",
     "Code/python",
     "DSA/Templates/Problem.md",
-    "DSA/Templates/Pattern.md",
-    "DSA/Templates/Algorithm.md",
-    "DSA/3. Patterns/Two Pointers.md",
-    "DSA/Algorithms/Untitled.md",
     "Pasted Image 20260709212547_409.png",
     "Pasted Image 20260709212559_861.png",
     "Pictures/Pasted image 20260219183213.png",

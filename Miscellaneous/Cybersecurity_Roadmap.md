@@ -277,7 +277,7 @@ None — this is where you start.
 
 ### Practical Skills
 
-- [ ] Navigate the filesystem without a mouse
+- [x] Navigate the filesystem without a mouse
 - [ ] Manage file permissions (chmod 777, 644, 755)
 - [ ] Create and manage users and groups
 - [ ] Set up SSH keys and disable password auth

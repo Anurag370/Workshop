@@ -26,39 +26,17 @@
 ## ⚙️ Algorithms
 
 - [[Linear Search|Linear Search]]
-- [[Reverse Array]]
 - [[Binary Search]]
+- [[Linear Search]]
+- [[Reverse Array]]
+- [[Selection Sort]]
 
 ---
 
 ## 🧩 Patterns
 
+- [[1. Two Pointers]]
 
----
-
-# 📝 Recently Created Problems
-
-```dataview
-TABLE
-difficulty AS "Difficulty",
-status AS "Status",
-file.ctime AS "Created"
-FROM "DSA/Problems"
-SORT file.ctime DESC
-LIMIT 10
-```
-
----
-
-# ⭐ Recently Edited
-
-```dataview
-TABLE
-file.mtime AS "Last Modified"
-FROM "Vault/DSA"
-SORT file.mtime DESC
-LIMIT 10
-```
 
 ---
 
@@ -115,14 +93,6 @@ WHERE status = "Solved"
 SORT file.name
 ```
 
----
-
-# 📅 Today's Tasks
-
-```dataview
-TASK
-WHERE !completed
-```
 
 ---
 

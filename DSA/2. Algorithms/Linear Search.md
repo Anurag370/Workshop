@@ -7,7 +7,6 @@ topic: "[[Arrays]]"
 pattern: None
 difficulty: Easy
 ---
-
 # Linear Search
 
 ## 🎯 Idea

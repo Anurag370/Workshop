@@ -35,7 +35,7 @@
 
 ## 🧩 Patterns
 
-- [[1. Two Pointers]]
+- [[Two Pointers]]
 
 
 ---

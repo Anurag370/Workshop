@@ -633,8 +633,8 @@ Run it with the env var set (or after loading `.env`). What you should see: a Po
 
 ### ✅ Verify Your Work (Phase 3)
 
-- [ ] You can connect to Supabase from your machine with a raw `psycopg` query.
-- [ ] `git status` confirms `.env` is untracked and `.env.example` is tracked.
+- [x] You can connect to Supabase from your machine with a raw `psycopg` query.
+- [x] `git status` confirms `.env` is untracked and `.env.example` is tracked.
 - [ ] You can explain what a connection pool is and why the engine owns it.
 - [ ] You understand *which* Supabase endpoint you chose (direct vs pooler) and why.
 
@@ -752,10 +752,10 @@ Your database holds a *pointer* (the object key). Phase 18 covers access control
 
 ### ✅ Verify Your Work (Phase 4)
 
-- [ ] You have a written/drawn list of every table with its key fields.
-- [ ] You made and can justify each 🧭 decision: UUID vs bigint, role storage, separate patients/doctors tables, time-series metrics, prescriptions in/out.
-- [ ] You can explain why files are stored outside the database.
-- [ ] You can explain what an audit log is for.
+- [x] You have a written/drawn list of every table with its key fields.
+- [x] You made and can justify each 🧭 decision: UUID vs bigint, role storage, separate patients/doctors tables, time-series metrics, prescriptions in/out.
+- [x] You can explain why files are stored outside the database.
+- [x] You can explain what an audit log is for.
 
 ---
 
@@ -838,8 +838,8 @@ Draw each table with columns, types, nullability, keys, and indexes. For each, d
 
 ### ✅ Verify Your Work (Phase 5)
 
-- [ ] You can identify which side of each relationship holds the foreign key and why.
-- [ ] You chose a cascade policy per relationship and can justify it.
+- [x] You can identify which side of each relationship holds the foreign key and why.
+- [x] You chose a cascade policy per relationship and can justify it.
 - [ ] Your schema drawing includes indexes for the queries you know you'll run.
 - [ ] You can explain the difference between a unique constraint and an index.
 

@@ -3,7 +3,7 @@ type: algorithm
 status: Learning
 created: 2026-08-10
 updated: 2026-08-10
-topic: "[[Arrays]]"
+topic: "[[Sorting]]"
 pattern:
 difficulty: Easy
 ---

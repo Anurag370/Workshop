@@ -106,10 +106,10 @@ print(f"Sample Std Dev:           {std_val:.2f} ms")
 print(f"IQR (Q3 - Q1):            {iqr_val:.2f} ms")
 ```
 
-| Library | Core Role in Data Science |
-| :--- | :--- |
-| **`NumPy`** | High-performance $N$-dimensional arrays (`ndarray`), linear algebra, and vectorized math. |
-| **`Pandas`** | Tabular data manipulation (`DataFrame`, `Series`), data cleaning, time series, and I/O. |
-| **`Matplotlib` / `Seaborn`** | Data visualization, exploratory plotting, and publication-quality figures. |
-| **`Scikit-Learn`** | Classical machine learning (Supervised, Unsupervised, Feature Engineering, Pipelines). |
-| **`SciPy` / `Statsmodels`** | Scientific computing, probability distributions, and statistical hypothesis testing. |
+| Library                     | Core Role in Data Science                                                                 |
+| :-------------------------- | :---------------------------------------------------------------------------------------- |
+| **`NumPy`**                 | High-performance $N$-dimensional arrays (`ndarray`), linear algebra, and vectorized math. |
+| **`Pandas`**                | Tabular data manipulation (`DataFrame`, `Series`), data cleaning, time series, and I/O.   |
+| **Matplotlib / Seaborn**    | Data visualization, exploratory plotting, and publication-quality figures.                |
+| **`Scikit-Learn`**          | Classical machine learning (Supervised, Unsupervised, Feature Engineering, Pipelines).    |
+| **`SciPy` / `Statsmodels`** | Scientific computing, probability distributions, and statistical hypothesis testing.      |

@@ -422,12 +422,12 @@ Open a page, then **right-click → View Page Source** (Ctrl+U). If the content 
 
 ### What I Should Know
 
-- [ ] The client-server request/response model
-- [ ] HTTP methods and status codes
-- [ ] The DOM and how JS interacts with it
-- [ ] The difference between browser and server environments
-- [ ] CSR vs SSR vs SSG at a conceptual level
-- [ ] How to use the Network tab
+- [x] The client-server request/response model
+- [x] HTTP methods and status codes
+- [x] The DOM and how JS interacts with it
+- [x] The difference between browser and server environments
+- [x] CSR vs SSR vs SSG at a conceptual level
+- [x] How to use the Network tab
 
 ### Questions
 
